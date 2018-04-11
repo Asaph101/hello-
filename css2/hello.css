@@ -1,10 +1,10 @@
 #background{
-	background-image: url("../img/night.jpg");
+	background-image: url("../img2/night.jpg");
 	background-position: center;
 	padding: 15%;
 }
 #jumbotron{
-	background-image: url("../img/city.jpeg");
+	background-image: url("../img2/city.jpeg");
 }
 #intro{
 	font-size: 28px;
@@ -17,7 +17,7 @@
 	flex: right;
 }
 .jumbotron{
-	background-image: url("../img/city.jpeg");
+	background-image: url("../img2/city.jpeg");
 }
 #amazing{
 	font-family: "Joti One";
@@ -33,7 +33,7 @@
 }
 
 #back{
-	background-image: url("../img/night.jpg");
+	background-image: url("../img2/night.jpg");
 	background-position: center;
 	padding: 15%;
 }
@@ -41,7 +41,7 @@
 	padding: 1px;
 }
 #flower{
-	background-image: url(../img/night.jpg);
+	background-image: url(../img2/night.jpg);
 	background-position: center;
 	padding: 15%;
 }
@@ -67,7 +67,7 @@
 	text-align: center;
 }
 .confused{
-	background-image: url(../img/night.jpg);
+	background-image: url(../img2/night.jpg);
 	background-position: center;
 	padding: 15%;
 }
@@ -85,7 +85,7 @@
 	text-align: center;
 }
 #b{
-	background-image: url(../img/night.jpg);
+	background-image: url(../img2/night.jpg);
 	background-position: center;
 	padding: 15%;
 }
@@ -105,12 +105,12 @@
 
 }
 #food{
-	background-image: url(../img/night.jpg);
+	background-image: url(../img2/night.jpg);
 	background-position: center;
 	padding: 15%;
 }
 #trees{
-	background-image: url(../img/night.jpg);
+	background-image: url(../img2/night.jpg);
 	background-position: center;
 	padding: 15%;
 }
