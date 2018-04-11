@@ -1,0 +1,71 @@
+.header {
+    background-image: url("../img/city.jpeg");
+    padding-bottom: 60px;
+    background-position: center;
+    padding-top: 60px;
+    align-items: center;
+
+}
+
+#spacer {
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.containment {
+    background-image: url("../img/night.jpg");
+    background-position: center;
+    padding: 15%;
+}
+
+h1 {
+    font-family: "Joti One";
+    font-size: 50px;
+    color: orange;
+}
+
+p {
+    font-family: "Joti One";
+    font-size: 25px;
+    color: cyan;
+}
+
+#icon {
+    background-image: url("../img/");
+    background-size: cover;
+    padding: 50px;
+}
+
+#icon:hover {
+    color: red;
+    opacity: 0.7;
+    filter: alpha(opacity=0.7);
+    cursor: pointer;
+}
+
+h2 {
+    color: red;
+    font-family: "Joti One";
+    font-size: 30px;
+}
+
+h3 {
+    color: gold;
+    font-family: "Joti One";
+    font-size: 30px;
+}
+
+h4 {
+    color: red;
+    font-family: "Joti One";
+    font-size: 30px;
+}
+
+.foot {
+    background-color: black;
+    font-family: "Joti One";
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
