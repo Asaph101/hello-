@@ -1,5 +1,9 @@
 #back {
+<<<<<<< HEAD
 background-image: url("../images3/head/city.jpeg");
+=======
+background-image: url("../images/head/city.jpeg");
+>>>>>>> 5c6c86ada205302aca2f118745922302709cf9e3
    padding-bottom: 60px;
    padding-top: 60px;
    background-position:center;
@@ -7,7 +11,11 @@ background-image: url("../images3/head/city.jpeg");
 }
 
 #wallpaper {
+<<<<<<< HEAD
  background-image: url("../images3/head/night.jpg");
+=======
+ background-image: url("../images/head/shoe.jpeg");
+>>>>>>> 5c6c86ada205302aca2f118745922302709cf9e3
  padding: 15em;
  background-position: center;
  background-repeat: no-repeat;
@@ -15,27 +23,49 @@ background-image: url("../images3/head/city.jpeg");
  background-repeat:
 }
 p {
+<<<<<<< HEAD
   font-family: "Joti One";
+=======
+  font-family: 'Courier New';
+>>>>>>> 5c6c86ada205302aca2f118745922302709cf9e3
   font-size: 2em;
   color: antiquewhite;
 }
 p1 {
+<<<<<<< HEAD
   font-family: "Joti One";
   font-size: 2em;
   color: antiquewhite;
 }
 h1 {
   font-family: "Joti One";
+=======
+  font-family: sans-serif;
+  font-size: 2em;
+  color: antiquewhite; 
+} 
+h1 {
+  font-family: 'Gill Sans MT';
+>>>>>>> 5c6c86ada205302aca2f118745922302709cf9e3
   font-size: 3em;
   color: rgb(255, 255, 255);
 }
 h2 {
+<<<<<<< HEAD
   font-family: "Joti One";
   font-size: 1.8em;
   color: antiquewhite;
 }
 ul {
   font-family: "Joti One";
+=======
+  font-family: 'fantasy';
+  font-size: 1.8em;
+  color: antiquewhite; 
+}
+ul {
+  font-family: Lucida Sans;
+>>>>>>> 5c6c86ada205302aca2f118745922302709cf9e3
   font-size: 1.7em;
   color: cyan;
 }

@@ -1,6 +1,11 @@
 .jumbotron{
+<<<<<<< HEAD
   background-image: url("../images1/back.jpg");
   background-image width: url(""): 100%;
+=======
+  background-image: url(../images/back.jpg);
+  background-image width: image(): 100%;
+>>>>>>> 5c6c86ada205302aca2f118745922302709cf9e3
      background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
@@ -10,11 +15,19 @@
     background-size: cover;
 
 }
+<<<<<<< HEAD
 p {
      font color: cyan;
  }
 .containerfluid{
   background-image: url("../images1/night.jpg");
+=======
+ <p {
+     font color: cyan;
+ }
+.containerfluid{
+  background-image: url(../images/night.jpg);
+>>>>>>> 5c6c86ada205302aca2f118745922302709cf9e3
   background-image width: image(): 100%;
   background height: 50%;
      background-repeat: no-repeat;
@@ -62,7 +75,11 @@ p {
 
 
   .head{
+<<<<<<< HEAD
     background-image: url("../images1/city.jpeg");
+=======
+    background-image: url("../images/city.jpeg");
+>>>>>>> 5c6c86ada205302aca2f118745922302709cf9e3
    padding-bottom: 60px;
    padding-top: 60px;
    background-position: center;
@@ -75,7 +92,11 @@ p {
    font-family: Joti One;
   }
   .footer {
+<<<<<<< HEAD
       background-image: : url("../images1/color equip.png");
+=======
+      background-image: :url(../images/color equip.png);
+>>>>>>> 5c6c86ada205302aca2f118745922302709cf9e3
       background-attachment: scroll;
       background-size: cover;
       height: 150px;
