@@ -9,7 +9,7 @@ Project by Asaph101,Antonybrandon,canssidle & Nicholas-muchiri.
 
 Tools used: HTML, CSS and JS
 
-Deployed link on GitHub:  Enjoy!
+Deployed link on GitHub: https://asaph101.github.io/hello-/ Enjoy!
 
 Known Bugs: No bugs, everything works perfectly!
 
