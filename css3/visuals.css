@@ -1,0 +1,41 @@
+#back {
+background-image: url("../images3/head/city.jpeg");
+   padding-bottom: 60px;
+   padding-top: 60px;
+   background-position:center;
+   align-items: center;
+}
+
+#wallpaper {
+ background-image: url("../images3/head/night.jpg");
+ padding: 15em;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-repeat:
+}
+p {
+  font-family: "Joti One";
+  font-size: 2em;
+  color: antiquewhite;
+}
+p1 {
+  font-family: "Joti One";
+  font-size: 2em;
+  color: antiquewhite;
+}
+h1 {
+  font-family: "Joti One";
+  font-size: 3em;
+  color: rgb(255, 255, 255);
+}
+h2 {
+  font-family: "Joti One";
+  font-size: 1.8em;
+  color: antiquewhite;
+}
+ul {
+  font-family: "Joti One";
+  font-size: 1.7em;
+  color: cyan;
+}
